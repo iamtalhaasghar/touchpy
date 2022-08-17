@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.4 (2022-08-17)
+### Fix
+* Indent ([`3dc3dd2`](https://github.com/iamtalhaasghar/touchpy/commit/3dc3dd241d0b6303d6065586fde2c4624675b371))
+
 ## v0.1.3 (2022-08-17)
 ### Fix
 * Created main function ([`1934051`](https://github.com/iamtalhaasghar/touchpy/commit/1934051dfd250b17286ad080fe860f9fe20dbeae))

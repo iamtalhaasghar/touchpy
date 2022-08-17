@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.5 (2022-08-17)
+### Fix
+* Short desc indent ([`740f796`](https://github.com/iamtalhaasghar/touchpy/commit/740f79604abf9d9e868024a2168244aee85b1af2))
+
 ## v0.1.4 (2022-08-17)
 ### Fix
 * Indent ([`3dc3dd2`](https://github.com/iamtalhaasghar/touchpy/commit/3dc3dd241d0b6303d6065586fde2c4624675b371))

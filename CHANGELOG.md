@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.3 (2022-08-17)
+### Fix
+* Created main function ([`1934051`](https://github.com/iamtalhaasghar/touchpy/commit/1934051dfd250b17286ad080fe860f9fe20dbeae))
+
 ## v0.1.2 (2022-08-17)
 ### Fix
 * Add touchpy url ([`20aefc1`](https://github.com/iamtalhaasghar/touchpy/commit/20aefc1f9213418edc77f221f3967e7dffd2c0b9))

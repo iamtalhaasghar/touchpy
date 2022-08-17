@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.6 (2022-08-17)
+### Fix
+* Added utf-8 encoding line ([`338d19f`](https://github.com/iamtalhaasghar/touchpy/commit/338d19f642dea31f09279b82874a29bac78cd605))
+
 ## v0.1.5 (2022-08-17)
 ### Fix
 * Short desc indent ([`740f796`](https://github.com/iamtalhaasghar/touchpy/commit/740f79604abf9d9e868024a2168244aee85b1af2))

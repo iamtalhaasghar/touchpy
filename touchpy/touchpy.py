@@ -26,28 +26,28 @@ def main():
 	format = f'''#!/usr/bin/env python
 	"""{short_desc}
 
-	{long_desc}
-	"""
+{long_desc}
+"""
 
-	# Created On: {today} using https://github.com/iamtalhaasghar/touchpy
+# Created On: {today} using https://github.com/iamtalhaasghar/touchpy
 
-	# built-in modules
+# built-in modules
 
-	# third-party modules
+# third-party modules
 
-	__author__ = "{author}"
-	__copyright__ = "Copyright {year}, {project}"
-	__credits__ = ["{author}"] # add your name in this list if you have made improvements in this script
-	__license__ = None
-	__version__ = "0.0.1"
-	__maintainer__ = "{author}"
-	__email__ = "{email}"
-	__status__ = "Development"
+__author__ = "{author}"
+__copyright__ = "Copyright {year}, {project}"
+__credits__ = ["{author}"] # add your name in this list if you have made improvements in this script
+__license__ = None
+__version__ = "0.0.1"
+__maintainer__ = "{author}"
+__email__ = "{email}"
+__status__ = "Development"
 
 
 
-	if __name__=="__main__":
-		pass
+if __name__=="__main__":
+	pass
 	'''
 
 	with open(path, 'w') as f:

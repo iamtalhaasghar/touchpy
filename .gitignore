@@ -1,2 +1,5 @@
 
 venv
+
+build/lib/touchpy
+touchpy.egg-info

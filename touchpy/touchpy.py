@@ -28,7 +28,7 @@ format = f'''#!/usr/bin/env python
 {long_desc}
 """
 
-# Created On: {today} using touchpy 
+# Created On: {today} using https://github.com/iamtalhaasghar/touchpy
 
 # built-in modules
 

@@ -24,7 +24,7 @@ def main():
 	year=datetime.now().strftime('%Y')
 
 	format = f'''#!/usr/bin/env python
-	"""{short_desc}
+"""{short_desc}
 
 {long_desc}
 """
